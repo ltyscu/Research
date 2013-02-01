@@ -1,6 +1,19 @@
-Syntax error at line 3173, column 2.
-The symbol "," is not expected.
-Syntax error at line 3177, column 2.
-The symbol "," is not expected.
-Syntax error at line 3188, column 2.
-The symbol "," is not expected.
+Domain violation at line 1604, column 48.
+The scope of index "t" has not been specified.
+Semantic error.
+The undeclared "" is not an index.
+The mandatory attribute "definition" is missing from constraint "DCLoadFlowMax".
+Semantic error.
+The declared constraint "DCLoadFlowMax" has not been defined.
+Syntax error at line 1616, column 34.
+Unexpected end of the definition of constraint "DCLoadFlowUpper".
+Syntax error at line 1688, column 34.
+Unexpected end of the definition of constraint "DCLoadFlowUpper".
+Syntax error at line 3198, column 34.
+Unexpected end of the definition of constraint "DCLoadFlowUpper".
+Syntax error at line 3270, column 34.
+Unexpected end of the definition of constraint "DCLoadFlowUpper".
+Syntax error at line 4778, column 34.
+Unexpected end of the definition of constraint "DCLoadFlowUpper".
+Syntax error at line 4850, column 34.
+Unexpected end of the definition of constraint "DCLoadFlowUpper".
