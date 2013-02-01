@@ -1,0 +1,3 @@
+AimmsCmd.exe (build 3.12.5.23800)
+Copyright 1993 - 2011 Paragon Decision Technology B.V.
+Running project: EISPC.prj
