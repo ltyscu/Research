@@ -1,2 +1,43 @@
-Domain violation at line 1575, column 29.
-The scope of index "k" has not been specified.
+Semantic error at line 1.
+The declared constraint "Initial_Transmission_Investment_Values" has not been defined.
+The mandatory attribute "definition" is missing from constraint "Initial_Transmission_Investment_Values".
+Semantic error at line 1613, column 1.
+The declared constraint "Initial_Transmission_Investment_Values" has not been defined.
+The mandatory attribute "definition" is missing from constraint "Initial_Transmission_Investment_Values".
+The mandatory attribute "definition" is missing from constraint "Initial_Transmission_Investment_Values".
+The mandatory attribute "definition" is missing from constraint "Initial_Transmission_Investment_Values".
+The mandatory attribute "definition" is missing from constraint "Initial_Transmission_Investment_Values".
+Semantic error at line 6376, column 75.
+The declared constraint "Initial_Transmission_Investment_Values" has not been defined.
+Execution error at line 8165.
+The element '<230' is not in the domain set "TransInvestAlt".
+Execution error at line 8269.
+The element '<230' is not in the domain set "TransInvestAlt".
+Execution error at line 9229.
+The element '<230' is not in the domain set "TransInvestAlt".
+Execution error at line 9852.
+The element '<230' is not in the domain set "TransInvestAlt".
+Execution error at line 11354.
+The element '<230' is not in the domain set "TransInvestAlt".
+Execution error at line 12847.
+The element '<230' is not in the domain set "TransInvestAlt".
+Execution error at line 14340.
+The element '<230' is not in the domain set "TransInvestAlt".
+Execution error at line 15837.
+The element '<230' is not in the domain set "TransInvestAlt".
+Execution error at line 17330.
+The element '<230' is not in the domain set "TransInvestAlt".
+Execution error at line 18830.
+The element '<230' is not in the domain set "TransInvestAlt".
+Execution error at line 20325.
+The element '<230' is not in the domain set "TransInvestAlt".
+Execution error at line 21818.
+The element '<230' is not in the domain set "TransInvestAlt".
+Execution error at line 23313.
+The element '<230' is not in the domain set "TransInvestAlt".
+Execution error at line 24811.
+The element '<230' is not in the domain set "TransInvestAlt".
+Execution error at line 26218.
+The element '<230' is not in the domain set "TransInvestAlt".
+Execution error at line 26322.
+The element '<230' is not in the domain set "TransInvestAlt".
