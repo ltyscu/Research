@@ -1,0 +1,121 @@
+There is 42.770 Mb in use.
+Warning: The parameter "FixedRenewableTarget" is not initialized (default values are used).
+Warning: The columns "Generation(0,Nuclear,NY,1)" and "Generation(0,OTEC,NY,1)" are equal in the generated mathematical program "leastCostInvestmentPlan".
+This may lead to non-unique solutions. 
+For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
+Warning: The columns "Generation(0,Offshore,NE,1)" and "Generation(0,PV Solar,NE,1)" are equal in the generated mathematical program "leastCostInvestmentPlan".
+This may lead to non-unique solutions. 
+For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
+Warning: The columns "Generation(0,PV Solar,NE,1)" and "Generation(0,Tidal,NE,1)" are equal in the generated mathematical program "leastCostInvestmentPlan".
+This may lead to non-unique solutions. 
+For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
+Warning: The columns "Generation(0,Tidal,NE,1)" and "Generation(0,Hydro,NE,1)" are equal in the generated mathematical program "leastCostInvestmentPlan".
+This may lead to non-unique solutions. 
+For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
+Warning: The columns "Generation(0,Hydro,NE,1)" and "Generation(0,PV Thermal,NE,1)" are equal in the generated mathematical program "leastCostInvestmentPlan".
+This may lead to non-unique solutions. 
+For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
+Warning: The columns "Generation(0,PV Thermal,NE,1)" and "Generation(0,Geothermal,NE,1)" are equal in the generated mathematical program "leastCostInvestmentPlan".
+This may lead to non-unique solutions. 
+For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
+Warning: The columns "Generation(0,Geothermal,NE,1)" and "Generation(0,Wind,NE,1)" are equal in the generated mathematical program "leastCostInvestmentPlan".
+This may lead to non-unique solutions. 
+For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
+Warning: The columns "Generation(0,PV Thermal,NE,3)" and "Generation(0,Wind,NE,3)" are equal in the generated mathematical program "leastCostInvestmentPlan".
+This may lead to non-unique solutions. 
+For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
+Warning: The columns "Generation(0,Wind,NE,3)" and "Generation(0,Hydro,NE,3)" are equal in the generated mathematical program "leastCostInvestmentPlan".
+This may lead to non-unique solutions. 
+For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
+Warning: The columns "Generation(0,Hydro,NE,3)" and "Generation(0,PV Solar,NE,3)" are equal in the generated mathematical program "leastCostInvestmentPlan".
+This may lead to non-unique solutions. 
+For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
+Warning: The columns "Generation(0,PV Solar,NE,3)" and "Generation(0,Geothermal,NE,3)" are equal in the generated mathematical program "leastCostInvestmentPlan".
+This may lead to non-unique solutions. 
+For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
+Warning: The columns "Generation(0,Geothermal,NE,3)" and "Generation(0,Offshore,NE,3)" are equal in the generated mathematical program "leastCostInvestmentPlan".
+This may lead to non-unique solutions. 
+For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
+Warning: The columns "Generation(0,Offshore,NE,3)" and "Generation(0,Tidal,NE,3)" are equal in the generated mathematical program "leastCostInvestmentPlan".
+This may lead to non-unique solutions. 
+For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
+Warning: The columns "Generation(0,Tidal,NE,9)" and "Generation(0,PV Solar,NE,9)" are equal in the generated mathematical program "leastCostInvestmentPlan".
+This may lead to non-unique solutions. 
+For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
+Warning: The columns "Generation(0,PV Solar,NE,9)" and "Generation(0,Geothermal,NE,9)" are equal in the generated mathematical program "leastCostInvestmentPlan".
+This may lead to non-unique solutions. 
+For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
+Warning: The columns "Generation(0,Geothermal,NE,9)" and "Generation(0,Offshore,NE,9)" are equal in the generated mathematical program "leastCostInvestmentPlan".
+This may lead to non-unique solutions. 
+For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
+Warning: The columns "Generation(0,Offshore,NE,9)" and "Generation(0,Wind,NE,9)" are equal in the generated mathematical program "leastCostInvestmentPlan".
+This may lead to non-unique solutions. 
+For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
+Warning: The columns "Generation(0,Wind,NE,9)" and "Generation(0,Hydro,NE,9)" are equal in the generated mathematical program "leastCostInvestmentPlan".
+This may lead to non-unique solutions. 
+For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
+Warning: The columns "Generation(0,Hydro,NE,9)" and "Generation(0,PV Thermal,NE,9)" are equal in the generated mathematical program "leastCostInvestmentPlan".
+This may lead to non-unique solutions. 
+For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
+The maximum of 20 warnings reached, further warnings suppressed.
+Warning: The columns "Generation(0,Nuclear,ECAR,1)" and "Generation(0,IPCC,ECAR,1)" are equal in the generated mathematical program "leastCostInvestmentPlan".
+This may lead to non-unique solutions. 
+For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
+Warning: The columns "Generation(0,IPCC,ECAR,1)" and "Generation(0,NGCC,ECAR,1)" are equal in the generated mathematical program "leastCostInvestmentPlan".
+This may lead to non-unique solutions. 
+For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
+Warning: The columns "Generation(0,NGCC,ECAR,1)" and "Generation(0,OTEC,ECAR,1)" are equal in the generated mathematical program "leastCostInvestmentPlan".
+This may lead to non-unique solutions. 
+For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
+Warning: The columns "Generation(0,OTEC,ECAR,1)" and "Generation(0,Oil,ECAR,1)" are equal in the generated mathematical program "leastCostInvestmentPlan".
+This may lead to non-unique solutions. 
+For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
+Warning: The columns "Generation(0,Oil,ECAR,1)" and "Generation(0,CT,ECAR,1)" are equal in the generated mathematical program "leastCostInvestmentPlan".
+This may lead to non-unique solutions. 
+For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
+Warning: The columns "Generation(0,CT,ECAR,1)" and "Generation(0,Coal,ECAR,1)" are equal in the generated mathematical program "leastCostInvestmentPlan".
+This may lead to non-unique solutions. 
+For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
+Warning: The columns "Generation(0,Coal,ECAR,1)" and "Generation(0,IGCC,ECAR,1)" are equal in the generated mathematical program "leastCostInvestmentPlan".
+This may lead to non-unique solutions. 
+For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
+Warning: The columns "Generation(0,NGCC,ECAR,2)" and "Generation(0,OTEC,ECAR,2)" are equal in the generated mathematical program "leastCostInvestmentPlan".
+This may lead to non-unique solutions. 
+For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
+Warning: The columns "Generation(0,OTEC,ECAR,2)" and "Generation(0,IPCC,ECAR,2)" are equal in the generated mathematical program "leastCostInvestmentPlan".
+This may lead to non-unique solutions. 
+For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
+Warning: The columns "Generation(0,IPCC,ECAR,2)" and "Generation(0,Nuclear,ECAR,2)" are equal in the generated mathematical program "leastCostInvestmentPlan".
+This may lead to non-unique solutions. 
+For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
+Warning: The columns "Generation(0,Nuclear,ECAR,2)" and "Generation(0,IGCC,ECAR,2)" are equal in the generated mathematical program "leastCostInvestmentPlan".
+This may lead to non-unique solutions. 
+For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
+Warning: The columns "Generation(0,IGCC,ECAR,2)" and "Generation(0,CT,ECAR,2)" are equal in the generated mathematical program "leastCostInvestmentPlan".
+This may lead to non-unique solutions. 
+For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
+Warning: The columns "Generation(0,CT,ECAR,2)" and "Generation(0,Oil,ECAR,2)" are equal in the generated mathematical program "leastCostInvestmentPlan".
+This may lead to non-unique solutions. 
+For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
+Warning: The columns "Generation(0,Oil,ECAR,2)" and "Generation(0,Coal,ECAR,2)" are equal in the generated mathematical program "leastCostInvestmentPlan".
+This may lead to non-unique solutions. 
+For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
+Warning: The columns "Generation(0,Coal,ECAR,3)" and "Generation(0,IGCC,ECAR,3)" are equal in the generated mathematical program "leastCostInvestmentPlan".
+This may lead to non-unique solutions. 
+For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
+Warning: The columns "Generation(0,IGCC,ECAR,3)" and "Generation(0,IPCC,ECAR,3)" are equal in the generated mathematical program "leastCostInvestmentPlan".
+This may lead to non-unique solutions. 
+For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
+Warning: The columns "Generation(0,IPCC,ECAR,3)" and "Generation(0,NGCC,ECAR,3)" are equal in the generated mathematical program "leastCostInvestmentPlan".
+This may lead to non-unique solutions. 
+For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
+Warning: The columns "Generation(0,NGCC,ECAR,3)" and "Generation(0,Nuclear,ECAR,3)" are equal in the generated mathematical program "leastCostInvestmentPlan".
+This may lead to non-unique solutions. 
+For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
+Warning: The columns "Generation(0,Nuclear,ECAR,3)" and "Generation(0,OTEC,ECAR,3)" are equal in the generated mathematical program "leastCostInvestmentPlan".
+This may lead to non-unique solutions. 
+For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
+Warning: The columns "Generation(0,OTEC,ECAR,3)" and "Generation(0,Oil,ECAR,3)" are equal in the generated mathematical program "leastCostInvestmentPlan".
+This may lead to non-unique solutions. 
+For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
+The maximum of 20 warnings reached, further warnings suppressed.
