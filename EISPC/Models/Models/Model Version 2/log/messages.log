@@ -1,1 +1,5 @@
-There is 26.277 Mb in use.
+Warning: Solver 'BARON 10.3' in the solver configuration file is not available and therefore replaced by 'BARON 11'.
+There is a new version of solver 'CPLEX' available, namely version 'CPLEX 12.5'.
+There is a new version of solver 'GUROBI' available, namely version 'GUROBI 5.1'.
+Solver 'CPOptimizer 12.4' has been added to the solver configuration.
+There is 53.012 Mb in use.
