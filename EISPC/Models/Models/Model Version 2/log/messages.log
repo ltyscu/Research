@@ -1,4 +1,4 @@
-There is 20.668 Mb in use.
+There is 47.254 Mb in use.
 Warning: The columns "Phase_Angle(0,NE,1)" and "Phase_Angle_Difference(0,NY_NE,1)" are equal in the generated mathematical program "leastCostInvestmentPlan".
 This may lead to non-unique solutions. 
 For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
@@ -60,69 +60,6 @@ Warning: The columns "Phase_Angle_Difference(1,NY_NE,10)" and "Phase_Angle(1,NE,
 This may lead to non-unique solutions. 
 For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
 The maximum of 20 warnings reached, further warnings suppressed.
-CPLEX option 'global thread limit' is limited by the available processors. The maximum value allowed is 4.
-Warning: The columns "Phase_Angle_Difference(0,NY_NE,1)" and "Phase_Angle(0,NE,1)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle(0,NE,2)" and "Phase_Angle_Difference(0,NY_NE,2)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle_Difference(0,NY_NE,3)" and "Phase_Angle(0,NE,3)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle(0,NE,4)" and "Phase_Angle_Difference(0,NY_NE,4)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle_Difference(0,NY_NE,5)" and "Phase_Angle(0,NE,5)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle_Difference(0,NY_NE,6)" and "Phase_Angle(0,NE,6)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle(0,NE,7)" and "Phase_Angle_Difference(0,NY_NE,7)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle_Difference(0,NY_NE,8)" and "Phase_Angle(0,NE,8)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle_Difference(0,NY_NE,9)" and "Phase_Angle(0,NE,9)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle_Difference(0,NY_NE,10)" and "Phase_Angle(0,NE,10)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle_Difference(1,NY_NE,1)" and "Phase_Angle(1,NE,1)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle_Difference(1,NY_NE,2)" and "Phase_Angle(1,NE,2)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle(1,NE,3)" and "Phase_Angle_Difference(1,NY_NE,3)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle_Difference(1,NY_NE,4)" and "Phase_Angle(1,NE,4)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle(1,NE,5)" and "Phase_Angle_Difference(1,NY_NE,5)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle(1,NE,6)" and "Phase_Angle_Difference(1,NY_NE,6)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle(1,NE,7)" and "Phase_Angle_Difference(1,NY_NE,7)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle_Difference(1,NY_NE,8)" and "Phase_Angle(1,NE,8)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle(1,NE,9)" and "Phase_Angle_Difference(1,NY_NE,9)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle_Difference(1,NY_NE,10)" and "Phase_Angle(1,NE,10)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-The maximum of 20 warnings reached, further warnings suppressed.
-CPLEX option 'global thread limit' is limited by the available processors. The maximum value allowed is 4.
 Postsolve: some variables were outside their bounds. Set option postsolve_continuous_variables equal to 'Round to nearest bound, resolve LP'
 and rerun the model to get a feasible solution with all variables inside their bounds.
 Interrupt error at line 1 in user-defined function section "MainExecution".
@@ -191,7 +128,6 @@ Warning: The columns "Phase_Angle_Difference(1,NY_NE,10)" and "Phase_Angle(1,NE,
 This may lead to non-unique solutions. 
 For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
 The maximum of 20 warnings reached, further warnings suppressed.
-CPLEX option 'global thread limit' is limited by the available processors. The maximum value allowed is 4.
 Warning: The columns "Phase_Angle(0,NE,1)" and "Phase_Angle_Difference(0,NY_NE,1)" are equal in the generated mathematical program "leastCostInvestmentPlan".
 This may lead to non-unique solutions. 
 For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
@@ -222,7 +158,7 @@ For more information regarding potential causes and consequences, see the help a
 Warning: The columns "Phase_Angle(0,NE,10)" and "Phase_Angle_Difference(0,NY_NE,10)" are equal in the generated mathematical program "leastCostInvestmentPlan".
 This may lead to non-unique solutions. 
 For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle(1,NE,1)" and "Phase_Angle_Difference(1,NY_NE,1)" are equal in the generated mathematical program "leastCostInvestmentPlan".
+Warning: The columns "Phase_Angle_Difference(1,NY_NE,1)" and "Phase_Angle(1,NE,1)" are equal in the generated mathematical program "leastCostInvestmentPlan".
 This may lead to non-unique solutions. 
 For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
 Warning: The columns "Phase_Angle_Difference(1,NY_NE,2)" and "Phase_Angle(1,NE,2)" are equal in the generated mathematical program "leastCostInvestmentPlan".
@@ -231,29 +167,28 @@ For more information regarding potential causes and consequences, see the help a
 Warning: The columns "Phase_Angle_Difference(1,NY_NE,3)" and "Phase_Angle(1,NE,3)" are equal in the generated mathematical program "leastCostInvestmentPlan".
 This may lead to non-unique solutions. 
 For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle(1,NE,4)" and "Phase_Angle_Difference(1,NY_NE,4)" are equal in the generated mathematical program "leastCostInvestmentPlan".
+Warning: The columns "Phase_Angle_Difference(1,NY_NE,4)" and "Phase_Angle(1,NE,4)" are equal in the generated mathematical program "leastCostInvestmentPlan".
 This may lead to non-unique solutions. 
 For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle_Difference(1,NY_NE,5)" and "Phase_Angle(1,NE,5)" are equal in the generated mathematical program "leastCostInvestmentPlan".
+Warning: The columns "Phase_Angle(1,NE,5)" and "Phase_Angle_Difference(1,NY_NE,5)" are equal in the generated mathematical program "leastCostInvestmentPlan".
 This may lead to non-unique solutions. 
 For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle_Difference(1,NY_NE,6)" and "Phase_Angle(1,NE,6)" are equal in the generated mathematical program "leastCostInvestmentPlan".
+Warning: The columns "Phase_Angle(1,NE,6)" and "Phase_Angle_Difference(1,NY_NE,6)" are equal in the generated mathematical program "leastCostInvestmentPlan".
 This may lead to non-unique solutions. 
 For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle(1,NE,7)" and "Phase_Angle_Difference(1,NY_NE,7)" are equal in the generated mathematical program "leastCostInvestmentPlan".
+Warning: The columns "Phase_Angle_Difference(1,NY_NE,7)" and "Phase_Angle(1,NE,7)" are equal in the generated mathematical program "leastCostInvestmentPlan".
 This may lead to non-unique solutions. 
 For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle(1,NE,8)" and "Phase_Angle_Difference(1,NY_NE,8)" are equal in the generated mathematical program "leastCostInvestmentPlan".
+Warning: The columns "Phase_Angle_Difference(1,NY_NE,8)" and "Phase_Angle(1,NE,8)" are equal in the generated mathematical program "leastCostInvestmentPlan".
 This may lead to non-unique solutions. 
 For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle(1,NE,9)" and "Phase_Angle_Difference(1,NY_NE,9)" are equal in the generated mathematical program "leastCostInvestmentPlan".
+Warning: The columns "Phase_Angle_Difference(1,NY_NE,9)" and "Phase_Angle(1,NE,9)" are equal in the generated mathematical program "leastCostInvestmentPlan".
 This may lead to non-unique solutions. 
 For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle(1,NE,10)" and "Phase_Angle_Difference(1,NY_NE,10)" are equal in the generated mathematical program "leastCostInvestmentPlan".
+Warning: The columns "Phase_Angle_Difference(1,NY_NE,10)" and "Phase_Angle(1,NE,10)" are equal in the generated mathematical program "leastCostInvestmentPlan".
 This may lead to non-unique solutions. 
 For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
 The maximum of 20 warnings reached, further warnings suppressed.
-CPLEX option 'global thread limit' is limited by the available processors. The maximum value allowed is 4.
 Postsolve: some variables were outside their bounds. Set option postsolve_continuous_variables equal to 'Round to nearest bound, resolve LP'
 and rerun the model to get a feasible solution with all variables inside their bounds.
 Interrupt error at line 1 in user-defined function section "MainExecution".
@@ -261,251 +196,3 @@ External interrupt encountered, while executing statement on line 1 in user-defi
 Data may not be consistent.
 
 AIMMS interrupted by the user
-Warning: The columns "Phase_Angle(0,NE,1)" and "Phase_Angle_Difference(0,NY_NE,1)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle(0,NE,2)" and "Phase_Angle_Difference(0,NY_NE,2)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle_Difference(0,NY_NE,3)" and "Phase_Angle(0,NE,3)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle_Difference(0,NY_NE,4)" and "Phase_Angle(0,NE,4)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle(0,NE,5)" and "Phase_Angle_Difference(0,NY_NE,5)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle(0,NE,6)" and "Phase_Angle_Difference(0,NY_NE,6)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle(0,NE,7)" and "Phase_Angle_Difference(0,NY_NE,7)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle(0,NE,8)" and "Phase_Angle_Difference(0,NY_NE,8)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle(0,NE,9)" and "Phase_Angle_Difference(0,NY_NE,9)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle(0,NE,10)" and "Phase_Angle_Difference(0,NY_NE,10)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle_Difference(1,NY_NE,1)" and "Phase_Angle(1,NE,1)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle_Difference(1,NY_NE,2)" and "Phase_Angle(1,NE,2)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle_Difference(1,NY_NE,3)" and "Phase_Angle(1,NE,3)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle_Difference(1,NY_NE,4)" and "Phase_Angle(1,NE,4)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle(1,NE,5)" and "Phase_Angle_Difference(1,NY_NE,5)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle(1,NE,6)" and "Phase_Angle_Difference(1,NY_NE,6)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle_Difference(1,NY_NE,7)" and "Phase_Angle(1,NE,7)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle_Difference(1,NY_NE,8)" and "Phase_Angle(1,NE,8)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle_Difference(1,NY_NE,9)" and "Phase_Angle(1,NE,9)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle_Difference(1,NY_NE,10)" and "Phase_Angle(1,NE,10)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-The maximum of 20 warnings reached, further warnings suppressed.
-CPLEX option 'global thread limit' is limited by the available processors. The maximum value allowed is 4.
-Warning: The columns "Phase_Angle(0,NE,1)" and "Phase_Angle_Difference(0,NY_NE,1)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle(0,NE,2)" and "Phase_Angle_Difference(0,NY_NE,2)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle_Difference(0,NY_NE,3)" and "Phase_Angle(0,NE,3)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle_Difference(0,NY_NE,4)" and "Phase_Angle(0,NE,4)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle(0,NE,5)" and "Phase_Angle_Difference(0,NY_NE,5)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle(0,NE,6)" and "Phase_Angle_Difference(0,NY_NE,6)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle(0,NE,7)" and "Phase_Angle_Difference(0,NY_NE,7)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle(0,NE,8)" and "Phase_Angle_Difference(0,NY_NE,8)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle(0,NE,9)" and "Phase_Angle_Difference(0,NY_NE,9)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle(0,NE,10)" and "Phase_Angle_Difference(0,NY_NE,10)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle_Difference(1,NY_NE,1)" and "Phase_Angle(1,NE,1)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle_Difference(1,NY_NE,2)" and "Phase_Angle(1,NE,2)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle_Difference(1,NY_NE,3)" and "Phase_Angle(1,NE,3)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle_Difference(1,NY_NE,4)" and "Phase_Angle(1,NE,4)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle(1,NE,5)" and "Phase_Angle_Difference(1,NY_NE,5)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle(1,NE,6)" and "Phase_Angle_Difference(1,NY_NE,6)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle_Difference(1,NY_NE,7)" and "Phase_Angle(1,NE,7)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle_Difference(1,NY_NE,8)" and "Phase_Angle(1,NE,8)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle_Difference(1,NY_NE,9)" and "Phase_Angle(1,NE,9)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle_Difference(1,NY_NE,10)" and "Phase_Angle(1,NE,10)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-The maximum of 20 warnings reached, further warnings suppressed.
-CPLEX option 'global thread limit' is limited by the available processors. The maximum value allowed is 4.
-Warning: The columns "Phase_Angle(0,NE,1)" and "Phase_Angle_Difference(0,NY_NE,1)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle(0,NE,2)" and "Phase_Angle_Difference(0,NY_NE,2)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle_Difference(0,NY_NE,3)" and "Phase_Angle(0,NE,3)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle_Difference(0,NY_NE,4)" and "Phase_Angle(0,NE,4)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle(0,NE,5)" and "Phase_Angle_Difference(0,NY_NE,5)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle(0,NE,6)" and "Phase_Angle_Difference(0,NY_NE,6)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle(0,NE,7)" and "Phase_Angle_Difference(0,NY_NE,7)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle(0,NE,8)" and "Phase_Angle_Difference(0,NY_NE,8)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle(0,NE,9)" and "Phase_Angle_Difference(0,NY_NE,9)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle(0,NE,10)" and "Phase_Angle_Difference(0,NY_NE,10)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle_Difference(1,NY_NE,1)" and "Phase_Angle(1,NE,1)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle_Difference(1,NY_NE,2)" and "Phase_Angle(1,NE,2)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle_Difference(1,NY_NE,3)" and "Phase_Angle(1,NE,3)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle_Difference(1,NY_NE,4)" and "Phase_Angle(1,NE,4)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle(1,NE,5)" and "Phase_Angle_Difference(1,NY_NE,5)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle(1,NE,6)" and "Phase_Angle_Difference(1,NY_NE,6)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle_Difference(1,NY_NE,7)" and "Phase_Angle(1,NE,7)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle_Difference(1,NY_NE,8)" and "Phase_Angle(1,NE,8)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle_Difference(1,NY_NE,9)" and "Phase_Angle(1,NE,9)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle_Difference(1,NY_NE,10)" and "Phase_Angle(1,NE,10)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-The maximum of 20 warnings reached, further warnings suppressed.
-CPLEX option 'global thread limit' is limited by the available processors. The maximum value allowed is 4.
-Warning: The columns "Phase_Angle(0,NE,1)" and "Phase_Angle_Difference(0,NY_NE,1)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle(0,NE,2)" and "Phase_Angle_Difference(0,NY_NE,2)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle_Difference(0,NY_NE,3)" and "Phase_Angle(0,NE,3)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle_Difference(0,NY_NE,4)" and "Phase_Angle(0,NE,4)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle(0,NE,5)" and "Phase_Angle_Difference(0,NY_NE,5)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle(0,NE,6)" and "Phase_Angle_Difference(0,NY_NE,6)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle(0,NE,7)" and "Phase_Angle_Difference(0,NY_NE,7)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle(0,NE,8)" and "Phase_Angle_Difference(0,NY_NE,8)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle(0,NE,9)" and "Phase_Angle_Difference(0,NY_NE,9)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle(0,NE,10)" and "Phase_Angle_Difference(0,NY_NE,10)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle_Difference(1,NY_NE,1)" and "Phase_Angle(1,NE,1)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle_Difference(1,NY_NE,2)" and "Phase_Angle(1,NE,2)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle_Difference(1,NY_NE,3)" and "Phase_Angle(1,NE,3)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle_Difference(1,NY_NE,4)" and "Phase_Angle(1,NE,4)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle(1,NE,5)" and "Phase_Angle_Difference(1,NY_NE,5)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle(1,NE,6)" and "Phase_Angle_Difference(1,NY_NE,6)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle_Difference(1,NY_NE,7)" and "Phase_Angle(1,NE,7)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle_Difference(1,NY_NE,8)" and "Phase_Angle(1,NE,8)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle_Difference(1,NY_NE,9)" and "Phase_Angle(1,NE,9)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-Warning: The columns "Phase_Angle_Difference(1,NY_NE,10)" and "Phase_Angle(1,NE,10)" are equal in the generated mathematical program "leastCostInvestmentPlan".
-This may lead to non-unique solutions. 
-For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
-The maximum of 20 warnings reached, further warnings suppressed.
-CPLEX option 'global thread limit' is limited by the available processors. The maximum value allowed is 4.
